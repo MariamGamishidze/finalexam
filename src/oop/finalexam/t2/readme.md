@@ -137,6 +137,7 @@ The system includes special logic for the student "Mariam Gamishidze" (ID: 61606
    - Topics: N/A
 
 ## UML Diagram
+![Error handling Screenshot](Screenshot.png)
 
 
 ```
