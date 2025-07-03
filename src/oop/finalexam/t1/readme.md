@@ -45,17 +45,10 @@ The program prints:
 3. Final `list3` after filtering phase
 4. Any error messages for skipped elements
 
-## Usage
-1. Compile: `javac oop/final/t1/Task1.java`
-2. Run: `java oop.final.t1.Task1`
 
-## Dependencies
-- Java SE 8 or higher
 
 ## Implementation Notes
 - Uses `ArrayList` for dynamic list operations
 - Employs `HashSet` to track unique indexes for removal
 - Sorts removal indexes in descending order to maintain list integrity during removal
-- Package name: `oop.final.t1` as specified
 
-## Example Output
