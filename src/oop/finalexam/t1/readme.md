@@ -36,7 +36,7 @@ When a value in `list1` is too large to be a valid index in `list2`, the program
 3. Continues processing with the next element
 
 ![Error Handling Screenshot](Screenshot1.png)  
-*(Note: Replace with actual screenshot from test page showing out-of-bounds error handling)*
+
 
 ## Program Output
 The program prints:
